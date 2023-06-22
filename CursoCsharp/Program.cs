@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CursoCsharp.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace CursoCsharp
     {
         static void Main(string[] args)
         {
+            #region Variables
             // no se puede re-asignar
             const string nombre = "Vladimir";
             // no puede ser const porque es variable
@@ -18,6 +20,7 @@ namespace CursoCsharp
             short edad = 28;
             Int16 altura = 178;
             float alturaEnMetros = 1.78f;
+            #endregion
 
             Console.WriteLine($"Hola {nombre} {apellido}");
             Console.WriteLine($"Mi nombre tiene {nombre.Length} letras");
@@ -28,8 +31,29 @@ namespace CursoCsharp
 
             DateTime fechaNacimiento = new DateTime(1994,4,1);
             var fechaActual = DateTime.Now;
+
+            var diferenciaFechas = fechaActual - fechaNacimiento;
+
             Console.WriteLine($"Mi fecha de nacimiento es {fechaNacimiento.Date.ToShortDateString()}");
             Console.WriteLine($"La fecha actual es {fechaActual.Date.ToShortDateString()}");
+            Console.WriteLine($"Mi edad de acuerdo a la fecha de hoy es {diferenciaFechas.Days / 365}");
+
+            var miGenero = Genero.Masculino;
+
+            Console.WriteLine($"Mi genero es {miGenero}");
+
+            var estadoCivil = EstadoCivil.Casado;
+
+            Console.WriteLine($"Mi estado civil es {estadoCivil}");
+
+            DateTime? fechaTerminarCurso = null;
+
+            Console.WriteLine($"Fecha para terminar curso {fechaTerminarCurso?.Date}");
+
+            bool tieneMascota = false;
+
+            Console.WriteLine($"Tiene mascotas: {tieneMascota}");
         }
     }
+
 }

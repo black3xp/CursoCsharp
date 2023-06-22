@@ -1,0 +1,8 @@
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\bin\Debug\CsharpCondicionales.exe.config
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\bin\Debug\CsharpCondicionales.exe
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\bin\Debug\CsharpCondicionales.pdb
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\obj\Debug\CsharpCondicionales.csproj.AssemblyReference.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\obj\Debug\CsharpCondicionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\obj\Debug\CsharpCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\obj\Debug\CsharpCondicionales.exe
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpCondicionales\obj\Debug\CsharpCondicionales.pdb

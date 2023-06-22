@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5942C16C-788A-4FA9-9D74-75E6BAFFB4AC}</ProjectGuid>
+    <ProjectGuid>{799665B9-07F7-4309-98DF-24E673523451}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CursoCsharp</RootNamespace>
-    <AssemblyName>CursoCsharp</AssemblyName>
+    <RootNamespace>CsharpCondicionales</RootNamespace>
+    <AssemblyName>CsharpCondicionales</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enums\EstadoCivil.cs" />
-    <Compile Include="Enums\Genero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
