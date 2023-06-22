@@ -1,0 +1,8 @@
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\bin\Debug\CursoCsharp.exe.config
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\bin\Debug\CursoCsharp.exe
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\bin\Debug\CursoCsharp.pdb
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.AssemblyReference.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.exe
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.pdb
