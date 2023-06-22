@@ -16,6 +16,7 @@ namespace CsharpCondicionales
             string mensaje = int.TryParse(edadUsuarioString, out int edadUsuario) ? "Calculando edad" : "Ingreso un caracter incorrecto";
 
             Console.WriteLine(mensaje);
+            if (mensaje == "Ingreso un caracter incorrecto") return;
 
             if ( edadUsuario >= 18)
             {
