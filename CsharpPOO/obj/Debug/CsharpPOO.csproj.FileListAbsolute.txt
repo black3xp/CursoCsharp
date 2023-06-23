@@ -1,0 +1,8 @@
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\bin\Debug\CsharpPOO.exe.config
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\bin\Debug\CsharpPOO.exe
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\bin\Debug\CsharpPOO.pdb
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\obj\Debug\CsharpPOO.csproj.AssemblyReference.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\obj\Debug\CsharpPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\obj\Debug\CsharpPOO.csproj.CoreCompileInputs.cache
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\obj\Debug\CsharpPOO.exe
+C:\Users\vnc3x\Documents\C#\CursoCsharp\CursoCsharp\CsharpPOO\obj\Debug\CsharpPOO.pdb
